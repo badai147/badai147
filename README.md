@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 你好
 
-<!--
-**badai147/badai147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+正在做一些符合自己需求的比较私人的项目，我是我自己的用户。
 
-Here are some ideas to get you started:
+如果这些项目恰好也对你有用——那算是意外之喜。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+---
+
+### 📫 联系方式
+
+邮箱：badai147@163.com
+
