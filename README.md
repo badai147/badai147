@@ -4,14 +4,10 @@
 
 如果这些项目恰好也对你有用——那算是意外之喜。
 
----
-
 ## 🛠️ 技术栈
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
----
 
 ## 📦 项目
 
@@ -21,14 +17,10 @@
 | [dsh-global-rules](https://github.com/badai147/dsh-global-rules) | DSH 插件：在 Web 设置面板中编辑 `~/.dsh/AGENTS.md` 全局规则，保存后实时生效 |
 | [skills](https://github.com/badai147/skills) | 我个人经常使用、不断迭代的 skill 合集 |
 
----
-
 ## 📊 统计
 
 ![Followers](https://img.shields.io/github/followers/badai147?style=flat&label=Followers&color=4D6BFE)
 ![dbsqlfmt stars](https://img.shields.io/github/stars/badai147/dbsqlfmt?style=flat&label=dbsqlfmt%20stars&color=4D6BFE)
-
----
 
 ### 📫 联系方式
 
