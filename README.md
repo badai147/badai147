@@ -4,15 +4,12 @@
 
 如果这些项目恰好也对你有用——那算是意外之喜。
 
-平时主要折腾 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 生态：写插件、攒技能、打磨顺手的小工具。
-
 ---
 
 ## 🛠️ 技术栈
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![DeepSeek Harness](https://img.shields.io/badge/DeepSeek%20Harness-4D6BFE?style=flat&logo=deepseek&logoColor=white)
 
 ---
@@ -29,9 +26,8 @@
 
 ## 📊 统计
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=badai147&show_icons=true&theme=default)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=badai147&layout=compact)
+![Followers](https://img.shields.io/github/followers/badai147?style=flat&label=Followers&color=4D6BFE)
+![dbsqlfmt stars](https://img.shields.io/github/stars/badai147/dbsqlfmt?style=flat&label=dbsqlfmt%20stars&color=4D6BFE)
 
 ---
 
