@@ -17,11 +17,6 @@
 | [dsh-global-rules](https://github.com/badai147/dsh-global-rules) | DSH 插件：在 Web 设置面板中编辑 `~/.dsh/AGENTS.md` 全局规则，保存后实时生效 |
 | [skills](https://github.com/badai147/skills) | 我个人经常使用、不断迭代的 skill 合集 |
 
-## 📊 统计
-
-![Followers](https://img.shields.io/github/followers/badai147?style=flat&label=Followers&color=4D6BFE)
-![dbsqlfmt stars](https://img.shields.io/github/stars/badai147/dbsqlfmt?style=flat&label=dbsqlfmt%20stars&color=4D6BFE)
-
 ### 📫 联系方式
 
 邮箱：badai147@163.com
