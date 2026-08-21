@@ -9,15 +9,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-## 📦 项目
-
-| 项目 | 说明 |
-| --- | --- |
-| [dbsqlfmt](https://github.com/badai147/dbsqlfmt) | SQL 格式化 CLI 工具，主要用于 DBeaver 外部格式化 · [文档](https://badai147.github.io/dbsqlfmt/) |
-| [dsh-global-rules](https://github.com/badai147/dsh-global-rules) | DSH 插件：在 Web 设置面板中编辑 `~/.dsh/AGENTS.md` 全局规则，保存后实时生效 |
-| [dsh-ocgo-usage](https://github.com/badai147/dsh-ocgo-usage) | DSH 插件：Web 侧边栏左下角显示 OpenCode Go 用量与 DeepSeek 高峰时段进度条 · [npm](https://www.npmjs.com/package/@badai147/dsh-ocgo-usage) |
-| [skills](https://github.com/badai147/skills) | 我个人经常使用、不断迭代的 skill 合集 |
-
-### 📫 联系方式
+## 📫 联系方式
 
 邮箱：badai147@163.com
